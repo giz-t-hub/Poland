@@ -19,7 +19,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - [Trade Facilitation](#trade-facilitation)  
 - [Digitalisation](#digitalisation)
 - [Gender and Equality](#gender)
-- [Local Transport Plans](#local-transport-plans) 
+- [Urban mobility plans, strategies, and concepts; local transport plans, etc](#local-transport-plans) 
 - [Studies and research papers](#studies-research) 
 - [International cooperation projects and strategies](#International-cooperation) 
 - [Data](#data) 
@@ -71,7 +71,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 -
 
-### Local Transport Plans <a name="local-transport-plans"></a>  
+###  mobility plans, strategies, and concepts; local transport plans, etc <a name="local-transport-plans"></a>  
 
 -
 
@@ -87,7 +87,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 - SLOCAT Transport, Climate and Sustainability Global Status Report: https://tcc-gsr.com/ 
 - SLOCAT Transport and Knowledge Base (TraKB):  https://tcc-gsr.com/3rd-edition-transport-knowledge-base-trakb/ 
-- Asian Transport Outlook: https://asiantransportoutlook.com/ 
+
 
 
 Overview/Table of Content: https://github.com/giz-t-hub/Overview

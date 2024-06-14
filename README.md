@@ -1,5 +1,5 @@
 # Transport in Poland
-Plans, data and other documents on transport in 
+Plans, data and other documents on transport in Poland
 
 <b> 
 Community list of publications, data and other useful information on transport in Poland :bike::bus::train:🌳🚊

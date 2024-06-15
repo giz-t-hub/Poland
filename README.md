@@ -74,9 +74,11 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 ### Urban mobility plans, strategies, and concepts; local transport plans, etc <a name="local-transport-plans"></a>  
 
 - Warszawa - Warsaw
+	- Plan zrównoważonej mobilności miejskiej dla metropolii warszawskiej 2030+ (SUMP)*(Sustainable Urban Mobility Plan for the Warsaw Metropolitan Area 2030+ (SUMP))*: https://sm.waw.pl/sump/
 - Kraków
 - Łódź 
-- Wrocław 
+- Wrocław
+	- https://bip.um.wroc.pl/artykuly/1060/komunikacja-transport
 - Poznań 
 - Gdańsk 
 - Szczecin

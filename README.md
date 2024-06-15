@@ -73,7 +73,21 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Urban mobility plans, strategies, and concepts; local transport plans, etc <a name="local-transport-plans"></a>  
 
--
+- Warszawa - Warsaw
+- Kraków
+- Łódź 
+- Wrocław 
+- Poznań 
+- Gdańsk 
+- Szczecin
+- Bydgoszcz 
+- Lublin 
+- Białystok
+- Katowice 
+- Gdynia
+- Częstochowa 
+- Radom 
+- Sosnowiec
 
 ### Studies and research papers <a name="studies-research"></a> 
 

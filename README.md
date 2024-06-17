@@ -41,6 +41,8 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
     
 - Inland waterways, ports:
 - Aviation:
+- Others:
+	- Krajowe regulacje mające wpływ na zwiększenie efektywności energetycznej w transporcie *(National regulations affecting the increase of energy efficiency in transport)*: https://www.gov.pl/web/infrastruktura/krajowe-regulacje-majace-wplyw-na-zwiekszenie-efektywnosci-energetycznej-w-transporcie
 
 ### Climate and energy policies <a name="climate-energy-policies"></a> 
 

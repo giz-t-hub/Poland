@@ -89,10 +89,13 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - Poznań
 	- Plan Zrównoważonej Mobilności dla Metropolii Poznań do 2040 roku *(Sustainable Mobility Plan for the Poznań Metropolitan Area until 2040)*: https://bip.poznan.pl/bip/uchwaly/xcv-1825-viii-2023-z-dnia-2023-12-21,92497/ 
 - Gdańsk
-- 
+	- Plan Zrównoważonej Mobilności Miejskiej dla Obszaru Metropolitalnego Gdańsk-Gdynia-Sopot *(Plan for Sustainable Urban Mobility for the Gdańsk-Gdynia-Sopot Metropolitan Area)*: https://www.metropoliagdansk.pl/upload/files/SUMP%20OMGGS_plan.pdf
 - Szczecin
-- Bydgoszcz 
-- Lublin 
+	- Plan Zrównoważonej Mobilności Miejskiej Szczecińskiego Obszaru Metropolitalnego do roku 2030 (z perspektywą 2040) *(Sustainable Urban Mobility Plan of the Szczecin Metropolitan Area until 2030 (with a 2040 perspective))*: http://som.szczecin.pl/sump/2023/12/08/dokumentacja-do-pobrania/
+- Bydgoszcz
+	- Plan Zrównoważonej Mobilności Miejskiej dla Bydgoskiego Obszaru Funkcjonalnego *(Plan for Sustainable Urban Mobility for the Bydgoszcz Functional Area)*: https://www.bydgoszcz.pl/fileadmin/multimedia/WSPOLNE/ZIT_BydOF_Materialy_robocze/SUMP_9.05.2023/PZMM_Bydgoski_Obszar_Funkcjonalny_po_konsultacjach.pdf
+- Lublin
+	- Plan Zrównoważonej Mobilności Miejskiej Lubelskiego Obszaru Metropolitalnego do Roku 2030 (z Perspektywą 2040) *(Plan for Sustainable Urban Mobility of the Lublin Metropolitan Area until 2030 (with a Perspective for 2040))*: https://slom.pl/wp-content/uploads/2023/04/Plan_ZMMLOM_do_roku_2030.pdf
 - Białystok
 - Katowice 
 - Gdynia

@@ -28,6 +28,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 ### National Vision, Strategy, Masterplan <a name="national-vision-strategy-masterplan"></a> 
 
 - Transport
+	- Strategia Zrównoważonego Rozwoju Transportu do 2030 roku *(Strategy for Sustainable Development of Transport until 2030)* https://www.gov.pl/web/infrastruktura/projekt-strategii-zrownowazonego-rozwoju-transportu-do-2030-roku2
 
 - General
 
@@ -53,7 +54,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Urban and regional development <a name="urban"></a> 
 
-- 
+- Krajowa Polityka miejska *(Natiopnal Urban policy)* https://www.gov.pl/web/fundusze-regiony/polityka-miejska
 
 ### EU accession and cooperation <a name="eu-accession"></a> 
 
@@ -88,7 +89,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 	- Documents: https://bip.um.wroc.pl/artykuly/1060/komunikacja-transport
 - Poznań
 	- Plan Zrównoważonej Mobilności dla Metropolii Poznań do 2040 roku *(Sustainable Mobility Plan for the Poznań Metropolitan Area until 2040)*: https://bip.poznan.pl/bip/uchwaly/xcv-1825-viii-2023-z-dnia-2023-12-21,92497/ 
-- Gdańsk
+- Gdańsk / Gdynia / Sopot
 	- Plan Zrównoważonej Mobilności Miejskiej dla Obszaru Metropolitalnego Gdańsk-Gdynia-Sopot *(Plan for Sustainable Urban Mobility for the Gdańsk-Gdynia-Sopot Metropolitan Area)*: https://www.metropoliagdansk.pl/upload/files/SUMP%20OMGGS_plan.pdf
 - Szczecin
 	- Plan Zrównoważonej Mobilności Miejskiej Szczecińskiego Obszaru Metropolitalnego do roku 2030 (z perspektywą 2040) *(Sustainable Urban Mobility Plan of the Szczecin Metropolitan Area until 2030 (with a 2040 perspective))*: http://som.szczecin.pl/sump/2023/12/08/dokumentacja-do-pobrania/
@@ -97,10 +98,12 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - Lublin
 	- Plan Zrównoważonej Mobilności Miejskiej Lubelskiego Obszaru Metropolitalnego do Roku 2030 (z Perspektywą 2040) *(Plan for Sustainable Urban Mobility of the Lublin Metropolitan Area until 2030 (with a Perspective for 2040))*: https://slom.pl/wp-content/uploads/2023/04/Plan_ZMMLOM_do_roku_2030.pdf
 - Białystok
-- Katowice 
-- Gdynia
-- Częstochowa 
-- Radom 
+	- Plan Zrównoważonej Mobilności Miejskiej Białostockiego Obszaru Funkcjonalnego do roku 2035 *(Sustainable Urban Mobility Plan of the Białystok Functional Area until 2035)*: https://bof.org.pl/pl/sump/dokument
+- Katowice
+- Częstochowa
+	- Planu Zrównoważonej Mobilności dla Subregionu Północnego Województwa Śląskiego *(Sustainable Mobility Plan for the Northern Subregion of the Silesian Voivodeship)*: https://bip.czestochowa.pl/artykul/33031/1180016/projekt-uchwaly-na-druku-br-16-lxxxv-23-w-sprawie-przyjecia-planu-zrownowazonej-mobilnosci-dla-subregionu-polnocnego-wojewodztwa-slaskiego-wraz-z-prognoza-oddzialywania-na-srodowisko
+- Radom
+- https://www.radom.pl/o-miescie/dokumenty-strategiczne/sump/wypracowane-dokumenty/
 - Sosnowiec
 
 - Full overview: https://www.gov.pl/web/infrastruktura/repozytorium-sump

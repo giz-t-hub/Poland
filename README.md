@@ -65,7 +65,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Digitalisation <a name="digitalisation"></a>
 
--
+- Program Zintegrowanej Informatyzacji Państwa *(Program of Integrated Digitalisation of the State)* https://www.gov.pl/web/cyfryzacja/program-zintegrowanej-informatyzacji-panstwa (new strategy under development)
 
 ### Gender and Equality <a name="gender"></a>
 
@@ -102,6 +102,8 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - Częstochowa 
 - Radom 
 - Sosnowiec
+
+- Full overview: https://www.gov.pl/web/infrastruktura/repozytorium-sump
 
 ### Studies and research papers <a name="studies-research"></a> 
 

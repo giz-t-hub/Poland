@@ -54,7 +54,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Urban and regional development <a name="urban"></a> 
 
-- Krajowa Polityka miejska *(Natiopnal Urban policy)* https://www.gov.pl/web/fundusze-regiony/polityka-miejska
+- Krajowa Polityka miejska *(National Urban policy)* https://www.gov.pl/web/fundusze-regiony/polityka-miejska
 
 ### EU accession and cooperation <a name="eu-accession"></a> 
 

@@ -74,6 +74,10 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Urban mobility plans, strategies, and concepts; local transport plans, etc <a name="local-transport-plans"></a>  
 
+- National framework program
+	- https://www.plany.mobilnosci.pl/
+	- https://www.gov.pl/web/infrastruktura/plany-zrownowazonej-mobilnosci-miejskiej-sump2
+   
 - Warszawa
 	- Plan zrównoważonej mobilności miejskiej dla metropolii warszawskiej 2030+ (SUMP) *(Sustainable Urban Mobility Plan for the Warsaw Metropolitan Area 2030+ (SUMP))*: https://sm.waw.pl/sump/
 - Kraków
@@ -103,7 +107,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - Częstochowa
 	- Planu Zrównoważonej Mobilności dla Subregionu Północnego Województwa Śląskiego *(Sustainable Mobility Plan for the Northern Subregion of the Silesian Voivodeship)*: https://bip.czestochowa.pl/artykul/33031/1180016/projekt-uchwaly-na-druku-br-16-lxxxv-23-w-sprawie-przyjecia-planu-zrownowazonej-mobilnosci-dla-subregionu-polnocnego-wojewodztwa-slaskiego-wraz-z-prognoza-oddzialywania-na-srodowisko
 - Radom
-- https://www.radom.pl/o-miescie/dokumenty-strategiczne/sump/wypracowane-dokumenty/
+	- Plan Zrównowazonej Mobilności Miejskiej dla Gmin Obszaru Funkcjonalnego Radomia 2030+ *(Sustainable Urban Mobility Plan for the Municipalities of the Functional Area of Radom 2030+)* https://www.radom.pl/o-miescie/dokumenty-strategiczne/sump/wypracowane-dokumenty/
 - Sosnowiec
 
 - Full overview: https://www.gov.pl/web/infrastruktura/repozytorium-sump

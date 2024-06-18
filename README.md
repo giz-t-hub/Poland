@@ -73,7 +73,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### EU accession and cooperation <a name="eu-accession"></a> 
 
-- 
+- Fundusze Europejskie na Infrastrukturę, Klimat, Środowisko 2021-2027 *(European Funds for Infrastructure, Climate, Environment 2021-2027)*: https://www.feniks.gov.pl/
 
 ### Trade Facilitation <a name="trade-facilitation"></a> 
 

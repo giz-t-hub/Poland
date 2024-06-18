@@ -43,6 +43,8 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - Aviation:
 - Others:
 	- Krajowe regulacje mające wpływ na zwiększenie efektywności energetycznej w transporcie *(National regulations affecting the increase of energy efficiency in transport)*: https://www.gov.pl/web/infrastruktura/krajowe-regulacje-majace-wplyw-na-zwiekszenie-efektywnosci-energetycznej-w-transporcie
+ 	- System planów zrównoważonego rozwoju publicznego transportu zbiorowego (tzw. Planów transportowych) *(System of sustainable development plans for public transport (so-called Transport Plans)*: https://www.gov.pl/web/infrastruktura/system-planow-zrownowazonego-rozwoju-publicznego-transportu-zbiorowego-tzw-planow-transportowych
+ - 
 
 ### Climate and energy policies <a name="climate-energy-policies"></a> 
 

@@ -44,7 +44,8 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - Others:
 	- Krajowe regulacje mające wpływ na zwiększenie efektywności energetycznej w transporcie *(National regulations affecting the increase of energy efficiency in transport)*: https://www.gov.pl/web/infrastruktura/krajowe-regulacje-majace-wplyw-na-zwiekszenie-efektywnosci-energetycznej-w-transporcie
  	- System planów zrównoważonego rozwoju publicznego transportu zbiorowego (tzw. Planów transportowych) *(System of sustainable development plans for public transport (so-called Transport Plans)*: https://www.gov.pl/web/infrastruktura/system-planow-zrownowazonego-rozwoju-publicznego-transportu-zbiorowego-tzw-planow-transportowych
- - 
+	- Rozporządzenie Ministra Infrastruktury z dnia 4 grudnia 2020 r. w sprawie planu zrównoważonego rozwoju publicznego transportu zbiorowego w międzywojewódzkich i międzynarodowych przewozach pasażerskich oraz w wojewódzkich przewozach pasażerskich w transporcie kolejowym *(Regulation of the Minister of Infrastructure of December 4, 2020, on the Plan for Sustainable Development of Public Transport in Inter-Provincial and International Passenger Transport, as well as in Provincial Passenger Transport in Railway Transport)*: https://isap.sejm.gov.pl/isap.nsf/download.xsp/WDU20200002328/O/D20202328.pdf
+   
 
 ### Climate and energy policies <a name="climate-energy-policies"></a> 
 

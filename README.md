@@ -38,8 +38,10 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - Railways:
  
 - Roads:
+	- Krajowy System Zarządzania Ruchem (KSZR) *(National Traffic Management System )*: https://drogi.gddkia.gov.pl/serwisy-gddkia/krajowy-system-zarzadzania-ruchem/zalozenia-kszr/co-to-jest-kszr
     
 - Inland waterways, ports:
+	- Krajowy Program Żeglugowy do roku 2030 (projekt) *(National Shipping Programme until 2030 (project))*: https://www.gov.pl/web/infrastruktura/krajowy-program-zeglugowy-do-roku-2030-projekt
 - Aviation:
 - Others:
 	- Krajowe regulacje mające wpływ na zwiększenie efektywności energetycznej w transporcie *(National regulations affecting the increase of energy efficiency in transport)*: https://www.gov.pl/web/infrastruktura/krajowe-regulacje-majace-wplyw-na-zwiekszenie-efektywnosci-energetycznej-w-transporcie
@@ -54,9 +56,15 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - Mitigation:
     
 - Adaptation
-   
+	- Strategiczny plan adaptacji dla sektorów i obszarów wrażliwych na zmiany klimatu do roku 2020 *(Polish National Strategy for Adaptation to Climate Change by 2020 with the perspective by 2030)*: https://bip.mos.gov.pl/fileadmin/user_upload/bip/strategie_plany_programy/Strategiczny_plan_adaptacji_2020.pdf
+  	- Climate change adaptation plans in  44 Polish cities - Summary report: http://44mpa.pl/wp-content/uploads/2018/12/MPA_NET-ENG-20-12.pdf
+  	  
+- Environmental policy:
+	- Polityka ekologiczna państwa 2030 - strategia rozwoju w obszarze środowiska i gospodarki wodnej *(National Environmental Policy 2030 - development strategy in the area of environment and water management)*: https://bip.mos.gov.pl/strategie-plany-programy/polityka-ekologiczna-panstwa/polityka-ekologiczna-panstwa-2030-strategia-rozwoju-w-obszarze-srodowiska-i-gospodarki-wodnej/ ; EN: https://bip.mos.gov.pl/fileadmin/user_upload/bip/strategie_plany_programy/Polityka_Ekologiczna_Panstwa/Polityka_Ekologiczna_Panstwa_2030.pdf
 
-- Energy policy 
+- Energy policy
+	- PL: Polityka energetyczna Polski do 2040 roku (PPE2040): https://www.gov.pl/web/klimat/polityka-energetyczna-polski
+	- EN: Energy Policy of Poland until 2040 (EPP2040) https://www.gov.pl/web/climate/energy-policy-of-poland-until-2040-epp2040
     
 
 ### Urban and regional development <a name="urban"></a> 

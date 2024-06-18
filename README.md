@@ -154,4 +154,4 @@ For more information about our work, please refer to:
 		
 Compiled by / Contact:
 - Armin Wagner: armin.wagner@giz.de
-- (as of April 2024)
+- (as of June 2024)

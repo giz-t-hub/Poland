@@ -97,6 +97,8 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 	- Plan zrównoważonej mobilności miejskiej dla metropolii warszawskiej 2030+ (SUMP) *(Sustainable Urban Mobility Plan for the Warsaw Metropolitan Area 2030+ (SUMP))*: https://sm.waw.pl/sump/
 - Kraków
 	- Plan Zrównoważonej Mobilności Metropolii Krakowskiej i jej Obszaru Funkcjonalnego (SUMP) *(Sustainable Mobility Plan of the Krakow Metropolis and its Functional Area (SUMP))*  https://metropoliakrakowska.pl/aktualnosci-szczegoly/plan-zrownowazonej-mobilnosci-metropolii-krakowskiej-i-jej-obszaru-funkcjonalnego-sump-przyjety-przez-rade-miasta-krakowa_CFfXPGrPG80i2yZryvs8
+ 	- Studium podstawowych tras rowerowych Miasta Krakowa *(Study of the Basic Bicycle Routes of the City of Kraków)*: https://www.bip.krakow.pl/zalaczniki/dokumenty/n/269044/karta
+  	- More: https://www.bip.krakow.pl/?mmi=9784
 - Łódź
 	- Plan Zrównoważonej Mobilności Miejskiej dla Łódzkiego Obszaru Metropolitalnego *(Sustainable Urban Mobility Plan for the Łódź Metropolitan Area)*: https://www.lom.lodz.pl/przyjecie-planu-zrownowazonej-mobilnosci-miejskiej-dla-lom-sump/
 - Wrocław

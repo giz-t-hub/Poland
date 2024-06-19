@@ -38,7 +38,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - Railways:
  
 - Roads:
-	- Krajowy System Zarządzania Ruchem (KSZR) *(National Traffic Management System )*: https://drogi.gddkia.gov.pl/serwisy-gddkia/krajowy-system-zarzadzania-ruchem/zalozenia-kszr/co-to-jest-kszr
+	- <b> Krajowy System Zarządzania Ruchem (KSZR) </b> *(National Traffic Management System )*: https://drogi.gddkia.gov.pl/serwisy-gddkia/krajowy-system-zarzadzania-ruchem/zalozenia-kszr/co-to-jest-kszr
     
 - Inland waterways, ports:
 	- Krajowy Program Żeglugowy do roku 2030 (projekt) *(National Shipping Programme until 2030 (project))*: https://www.gov.pl/web/infrastruktura/krajowy-program-zeglugowy-do-roku-2030-projekt

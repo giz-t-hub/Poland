@@ -133,6 +133,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 - Development of public transport in rural areas in Poland: the example of the Słupsk district, 2024: https://www.researchgate.net/publication/379182222_Development_of_public_transport_in_rural_areas_in_Poland_the_example_of_the_Slupsk_district/link/65fdf733d3a0855142419baa/download?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIn19
 - 30 years of the transformation of non-urban public transport in Poland’s peripheral areas — what went wrong?, 2021: https://link.springer.com/article/10.1007/s11629-021-6762-y
+- Dostępność obszarów wiejskich do miast powiatowych w Polsce transportem publicznym w 2019 r. , 2021, *(The 2019 level of accessibility of Poland’s county cities by public transport from rural areas)*: https://rcin.org.pl/igipz/dlibra/publication/232713/edition/197286/content
 - The Second Generation Electromobility in Polish Urban Public Transport: The Factors and Mechanisms of Spatial Development, 2021: https://www.mdpi.com/1996-1073/14/22/7751
 - Facilitation of Transportation in Turkey and Poland: a Comparative Study, 2012: https://www.femise.org/wp-content/force-download.php?file=uploads/2014/07/FEm35-091.pdf
 - Rural Public Transport in Zachodniopomorskie, 2019: https://documents1.worldbank.org/curated/en/419001562666842364/pdf/Poland-Catching-Up-Regions-Three-Rural-Public-Transport-in-Zachodniopomorskie.pdf

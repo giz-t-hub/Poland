@@ -131,7 +131,10 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Studies and research papers <a name="studies-research"></a> 
 
--
+- 30 years of the transformation of non-urban public transport in Poland’s peripheral areas — what went wrong?, 2021: https://link.springer.com/article/10.1007/s11629-021-6762-y
+- The Second Generation Electromobility in Polish Urban Public Transport: The Factors and Mechanisms of Spatial Development, 2021: https://www.mdpi.com/1996-1073/14/22/7751
+- Facilitation of Transportation in Turkey and Poland: a Comparative Study, 2012: https://www.femise.org/wp-content/force-download.php?file=uploads/2014/07/FEm35-091.pdf
+- Rural Public Transport in Zachodniopomorskie, 2019: https://documents1.worldbank.org/curated/en/419001562666842364/pdf/Poland-Catching-Up-Regions-Three-Rural-Public-Transport-in-Zachodniopomorskie.pdf
 
 ### International cooperation projects and strategies <a name="international-cooperation"></a> 
 

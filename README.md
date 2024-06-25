@@ -142,6 +142,9 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - Decline in Mobility: Public Transport in Poland in the time of the COVID-19 Pandemic, 2020: https://www.mdpi.com/2227-7099/8/4/78
 - Removing Barriers to Public Transport Fare Integration in Poland: Key Directions of Change, 2016: https://documents1.worldbank.org/curated/en/693031469015891260/pdf/107015-WP-P148489-PUBLIC-Phase-2-Removing-Barriers-to-Public-Transport-Integration-in-Poland-Report-June-10-2016.pdf
 - The impact of temporal resolution on public transport accessibility measurement: Review and case study in Poland, 2019: https://www.sciencedirect.com/science/article/pii/S0966692318305209
+- Administration of Urban Public Transport in the Largest Polish Cities, 2020: https://www.researchgate.net/publication/347848579_Administration_of_Urban_Public_Transport_in_the_Largest_Polish_Cities
+- Estimation of Losses Due to the Existence of Monopolies in Urban Bus Transport in Poland, 2011: https://www.researchgate.net/publication/255697952_Estimation_of_Losses_Due_to_the_Existence_of_Monopolies_in_Urban_Bus_Transport_in_Poland
+- The Challenge of Rapidly Improving Transport Infrastructure in Poland, 2008: https://www.oecd-ilibrary.org/docserver/236343486436.pdf?expires=1719309357&id=id&accname=ocid56027132&checksum=EC2312DEC3B037D294773AA6F6A98230
 
 ### International cooperation projects and strategies <a name="international-cooperation"></a> 
 

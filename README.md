@@ -145,6 +145,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - Administration of Urban Public Transport in the Largest Polish Cities, 2020: https://www.researchgate.net/publication/347848579_Administration_of_Urban_Public_Transport_in_the_Largest_Polish_Cities
 - Estimation of Losses Due to the Existence of Monopolies in Urban Bus Transport in Poland, 2011: https://www.researchgate.net/publication/255697952_Estimation_of_Losses_Due_to_the_Existence_of_Monopolies_in_Urban_Bus_Transport_in_Poland
 - The Challenge of Rapidly Improving Transport Infrastructure in Poland, 2008: https://www.oecd-ilibrary.org/docserver/236343486436.pdf?expires=1719309357&id=id&accname=ocid56027132&checksum=EC2312DEC3B037D294773AA6F6A98230
+- Transport related behaviour of Polish cities’ inhabitants, 2020: https://www.polishsmogalert.org/wp-content/uploads/2020/06/Raport-transportowy-v7-ENGLISH.pdf
 
 ### International cooperation projects and strategies <a name="international-cooperation"></a> 
 
